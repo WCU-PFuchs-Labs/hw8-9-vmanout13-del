@@ -1,4 +1,4 @@
-package tabular;
+package tabular;  // Must be in the tabular folder with this package name
 
 public class DataRow {
     private final double y;
