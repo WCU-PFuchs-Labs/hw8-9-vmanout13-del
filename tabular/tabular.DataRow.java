@@ -12,4 +12,3 @@ public class DataRow {
     public double getY() { return y; }
     public double[] getX() { return x.clone(); }
 }
-
