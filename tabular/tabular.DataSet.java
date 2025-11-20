@@ -26,4 +26,3 @@ public class DataSet {
     public DataRow get(int i) { return rows.get(i); }
     public List<DataRow> getRows() { return Collections.unmodifiableList(rows); }
 }
-
